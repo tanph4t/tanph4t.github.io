@@ -1,10 +1,7 @@
 ---
 permalink: /
-title: "Xin chao"
+title: "About"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 Toi la **Pham Doan Tan Phat**, sinh vien nganh **IOT**
